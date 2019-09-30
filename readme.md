@@ -1,6 +1,7 @@
 Hi! I’m Murtaza.
 -----------------
 ![photo]
+
 I’m a all round developer and designer from Pakistan. 
 Currently working as manager web development for Mehran UET.
 
