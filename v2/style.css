@@ -124,6 +124,9 @@ a {
 .expand {
     justify-content: space-between;
 }
+.evenly {
+    justify-content: space-evenly;
+}
 
 .left {
     justify-content: flex-start;
